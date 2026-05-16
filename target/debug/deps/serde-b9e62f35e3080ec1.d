@@ -1,0 +1,14 @@
+D:\游戏开发\神经学\ncp-sdk\target\debug\deps\serde-b9e62f35e3080ec1.d: C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\integer128.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\mod.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\de.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\ser.rs D:\游戏开发\神经学\ncp-sdk\target\debug\build\serde-6731966c590e634f\out/private.rs
+
+D:\游戏开发\神经学\ncp-sdk\target\debug\deps\libserde-b9e62f35e3080ec1.rlib: C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\integer128.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\mod.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\de.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\ser.rs D:\游戏开发\神经学\ncp-sdk\target\debug\build\serde-6731966c590e634f\out/private.rs
+
+D:\游戏开发\神经学\ncp-sdk\target\debug\deps\libserde-b9e62f35e3080ec1.rmeta: C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\lib.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\integer128.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\mod.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\de.rs C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\ser.rs D:\游戏开发\神经学\ncp-sdk\target\debug\build\serde-6731966c590e634f\out/private.rs
+
+C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\lib.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\integer128.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\mod.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\de.rs:
+C:\Users\Administrator\.cargo\registry\src\mirrors.ustc.edu.cn-38d0e5eb5da2abae\serde-1.0.228\src\private\ser.rs:
+D:\游戏开发\神经学\ncp-sdk\target\debug\build\serde-6731966c590e634f\out/private.rs:
+
+# env-dep:OUT_DIR=D:\\游戏开发\\神经学\\ncp-sdk\\target\\debug\\build\\serde-6731966c590e634f\\out
